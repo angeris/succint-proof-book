@@ -6,6 +6,7 @@
 #let reals = math.bold("R")
 #let complex = math.bold("C")
 #let to = math.arrow
+#let implies = math.arrow.r.double
 
 // Misc. math stuff
 #let gbar = $overline(g)$
