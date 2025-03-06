@@ -1,7 +1,6 @@
 #import "../vanilla-fullpage-book.typ": paragraph
 
 #heading(numbering: none)[Preface]
-
 This book is about constructing, proving the security of, and programming a
 complete, end-to-end succinct proof system. There are many other phenomenal
 books which take a general approach to these systems and describe the
@@ -27,7 +26,6 @@ and implement one particular succinct proof system. It is not intended to be an
 exhaustive reference on the field, but rather a very opinionated introduction
 that can serve as a stepping stone to more advanced topics.
 
-#paragraph[Exercises.]
-The book contains a number of exercises and it is the intention that readers
-work through the exercies which they find most interesting---working through at
-least some portion of these in each chapter.
+#paragraph[Exercises.] The book contains a number of exercises and it is the
+intention that readers work through the exercies which they find most
+interesting---working through at least some portion of these in each chapter.
